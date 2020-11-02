@@ -1,6 +1,6 @@
 # Frontend Take-home Prompt
 
-In this repository is pipeline data in the form of geojson. Please display that data on a map with the following features:
+In this repository is pipeline data (`pipes.json`) in the form of geojson. Please display that data on a map with the following features:
 - A button that when pressed will update the colors of the pipes based on their “year” property
 - A button that when pressed will update the colors of the pipes based on their “diameter” property
 - A button that when pressed will update the colors of the pipes based on their “material” property
